@@ -207,4 +207,4 @@ elif section == "🔮 Live Prediction":
         st.pyplot(fig)
 
 st.markdown("---")
-st.markdown("*Built with Python · Scikit-learn · Streamlit | Varsha T — Junior AI Developer Portfolio Project*")
+st.markdown("*Built with Python · Scikit-learn · Streamlit | Varsha T —  Project*")
